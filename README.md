@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+[[![Netlify Status](https://api.netlify.com/api/v1/badges/4f6ee979-3025-49ad-a8ad-86dca1fa84d9/deploy-status)](https://app.netlify.com/sites/comfy-dieffenbachia-d3608a/deploys)]
 
 # HTML and CSS Assessment
 
