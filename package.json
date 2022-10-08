@@ -17,12 +17,25 @@
   },
   "jest": {
     "reporters": [
-        ["jest-compact-reporter", { "diffs": false, "colours": true, "showPassingTests": true }]
+      [
+        "jest-compact-reporter",
+        {
+          "diffs": false,
+          "colours": true,
+          "showPassingTests": true
+        }
       ]
+    ]
   },
   "babel": {
     "presets": [
-      ["@babel/preset-env", {}]
+      [
+        "@babel/preset-env",
+        {}
+      ]
     ]
+  },
+  "dependencies": {
+    "sass": "^1.55.0"
   }
 }
